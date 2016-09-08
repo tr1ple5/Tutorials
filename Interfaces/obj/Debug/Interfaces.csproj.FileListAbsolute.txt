@@ -1,0 +1,6 @@
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Interfaces\obj\Debug\Interfaces.pdb

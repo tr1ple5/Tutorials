@@ -1,0 +1,8 @@
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Generics\bin\Debug\Generics.exe.config
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Generics\bin\Debug\Generics.exe
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Generics\bin\Debug\Generics.pdb
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Generics\obj\Debug\Generics.exe
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Generics\obj\Debug\Generics.pdb
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\Tuturials\Generics\bin\Debug\Generics.exe.config
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\Tuturials\Generics\obj\Debug\Generics.exe
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\Tuturials\Generics\obj\Debug\Generics.pdb

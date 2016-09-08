@@ -1,0 +1,6 @@
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Delegates\bin\Debug\Delegates.exe
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Delegates\bin\Debug\Delegates.pdb
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Delegates\obj\Debug\Delegates.exe
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Delegates\obj\Debug\Delegates.pdb
