@@ -1,0 +1,6 @@
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\Tuturials\JavaScriptPatterns\bin\JavaScriptPatterns.dll.config
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\Tuturials\JavaScriptPatterns\bin\JavaScriptPatterns.dll
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\Tuturials\JavaScriptPatterns\bin\JavaScriptPatterns.pdb
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\Tuturials\JavaScriptPatterns\obj\Debug\JavaScriptPatterns.csprojResolveAssemblyReference.cache
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\Tuturials\JavaScriptPatterns\obj\Debug\JavaScriptPatterns.dll
+C:\Users\derricke\Documents\Visual Studio 2013\Projects\Tuturials\JavaScriptPatterns\obj\Debug\JavaScriptPatterns.pdb
