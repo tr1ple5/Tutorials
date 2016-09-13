@@ -58,12 +58,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CallApplyAndBind.html" />
+    <Content Include="CallBackFunctions.html" />
     <Content Include="Closure.html" />
     <Content Include="ContructorPattern.html" />
     <Content Include="DynamicPrototypePattern.html" />
     <Content Include="FactoryPattern.html" />
     <Content Include="PrototypePattern.html" />
     <Content Include="Scripts\CallApplyAndBind.js" />
+    <Content Include="Scripts\CallBackFunctions.js" />
     <Content Include="Scripts\Closure.js" />
     <Content Include="Scripts\Contructor.js" />
     <Content Include="Scripts\DynamicPrototype.js" />
